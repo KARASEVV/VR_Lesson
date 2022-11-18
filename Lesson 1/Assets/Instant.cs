@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Instant : MonoBehaviour
 {
+    public int i;
     public GameObject prefab;
     public Transform Spawn;
     public void CupInstant()
